@@ -1,0 +1,222 @@
+{"0": {
+  
+    "Vendor ID": "HW019140301",
+    "Vendor Name": "Target | Sherman Oaks",
+    "Tax ID": "ST-0001-AA-0000000",
+    "Total Transaction Amount": 233.20,
+    "Transaction Date": "02012024",
+ 
+ 
+    "Transaction Data":{
+        "0": {
+            "Item": "Original Brand Eggs",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "FB-0001-AA-0000000",
+            "Amount": 5.00
+        },
+ 
+ 
+        "1": {
+            "Item": "Original Brand Bread",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "FB-0002-AA-0000000",
+            "Amount": 5.00
+        },
+ 
+ 
+        "2": {
+            "Item": "Original Brand Cereal",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "FB-0003-AA-0000000",
+            "Amount": 5.00
+        },
+ 
+ 
+        "3": {
+            "Item": "Original Brand Light Bulb",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "HM-0501-AA-0000000",
+            "Amount": 5.00
+        },
+ 
+ 
+        "4": {
+            "Item": "Original Brand Paint",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "HM-0502-AA-0000000",
+            "Amount": 50.00
+        },
+ 
+ 
+        "5": {
+            "Item": "Original Brand Window",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "HM-0503-AA-0000000",
+            "Amount": 150.00
+        },
+ 
+ 
+        "6": {
+            "Item": "California State Sales Tax",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "ST-0001-AA-0000000",
+            "Amount": 13.20
+        }
+ }
+ },
+ 
+ 
+ "1": {
+   
+    "Vendor ID": "GS019140301",
+    "Vendor Name": "Shell Gas | Sherman Oaks",
+    "Tax ID": "ST-0001-AA-0000000",
+    "Total Transaction Amount": 108.46,
+    "Transaction Date": "02072024",
+ 
+ 
+    "Transaction Data":{
+        "0": {
+            "Item": "Unleaded Gasoline",
+            "Quantity": 1,
+            "Units": 16.2,
+            "ZenithID": "VH-0301-AA-0000000",
+            "Amount": 102.32
+        },
+ 
+ 
+        "1": {
+            "Item": "California State Sales Tax",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "ST-0001-AA-0000000",
+            "Amount": 6.14
+        }
+    }
+ },
+ 
+ 
+ "2": {
+   
+    "Vendor ID": "RS019002401",
+    "Vendor Name": "Ministry of Coffee | Westwood",
+    "Tax ID": "ST-0001-AA-0000000",
+    "Total Transaction Amount": 30.73,
+    "Transaction Date": "02162024",
+ 
+ 
+    "Transaction Data":{
+        "0": {
+            "Item": "Black Coffee",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "FB-0101-AA-0000000",
+            "Amount": 6.00
+        },
+ 
+ 
+        "1": {
+            "Item": "Green Smoothie",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "FB-0102-AA-0000000",
+            "Amount": 8.00
+        },
+ 
+ 
+        "2": {
+            "Item": "Egg Sandwhich",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "FB-0103-AA-0000000",
+            "Amount": 14.99
+        },
+ 
+ 
+        "3": {
+            "Item": "California State Sales Tax",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "ST-0001-AA-0000000",
+            "Amount": 1.74
+        }
+    }
+ },
+ 
+ 
+ "3": {
+   
+    "Vendor ID": "PS019002401",
+    "Vendor Name": "Glendon Parking Garage",
+    "Tax ID": "ST-0001-AA-0000000",
+    "Total Transaction Amount": 26.00,
+    "Transaction Date": "02212024",
+ 
+ 
+    "Transaction Data":{
+        "0": {
+            "Item": "Daily Parking",
+            "Quantity": 1,
+            "Units": 6,
+            "ZenithID": "PS-0001-AA-0000000",
+            "Amount": 26.00
+        }
+    }       
+ },
+ 
+ 
+ "4": {
+   
+    "Vendor ID": "RS019140301",
+    "Vendor Name": "Doordash",
+    "Tax ID": "ST-0001-AA-0000000",
+    "Total Transaction Amount": 71.02,
+    "Transaction Date": "02012024",
+ 
+ 
+    "Transaction Data":{
+        "0": {
+            "Item": "Steak",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "FB-0030-AA-0000000",
+            "Amount": 50.00
+        },
+ 
+ 
+        "1": {
+            "Item": "Diet Coke",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "FB-0101-AA-0000000",
+            "Amount": 5.00
+        },
+ 
+ 
+        "2": {
+            "Item": "Service Charge",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "SC-0001-AA-0000000",
+            "Amount": 12.00
+        },
+ 
+ 
+        "3": {
+            "Item": "California State Sales Tax",
+            "Quantity": 1,
+            "Units": null,
+            "ZenithID": "ST-0001-AA-0000000",
+            "Amount": 4.02
+        }
+    }
+ }
+ }
+ 
